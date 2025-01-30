@@ -28,4 +28,10 @@
 
 # Dotenv and similar local-only files
 *.local
+
+# Add these if not already present
+.env
+.env.development
+.env.production
+node_modules/
          
